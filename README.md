@@ -78,7 +78,7 @@ Performed the following exploratory operations:
 
 ### Screenshot
 
-📷 Insert Screenshot: Data Exploration
+Data Exploration
 
 ![Schema](screenshots/coloumns.png)
 ![Schema](screenshots/schema.png)
@@ -95,7 +95,7 @@ No corrupted records were found in the dataset.
 
 ### Screenshot
 
-📷 Insert Screenshot: Corrupted Record Check
+Corrupted Record Check
 
 ![Corrupt Records](screenshots/ currupt.png)
 
@@ -107,7 +107,7 @@ A custom schema was created using `StructType` and `StructField` to ensure each 
 
 ### Screenshot
 
-📷 Insert Screenshot: Custom Schema
+Custom Schema
 
 ![Custom Schema](screenshots/Screenshot 2026-07-30 153506.png)
 
@@ -129,7 +129,7 @@ These transformations improved the quality and usability of the dataset.
 
 ### Screenshot
 
-📷 Insert Screenshot: Transformations
+Transformations
 
 ![Transformations](screenshots/Transformation.png)
 
@@ -149,7 +149,7 @@ This ensured that important records were retained while reducing missing informa
 
 ### Screenshot
 
-📷 Insert Screenshot: Null Values
+Null Values
 
 ![Null Handling](screenshots/Null.png)
 
@@ -180,7 +180,7 @@ Parquet was selected because it offers:
 
 ### Screenshot
 
-📷 Insert Screenshot: Final Output
+Final Output
 
 ![Output](screenshots/Parquet.png)
 
